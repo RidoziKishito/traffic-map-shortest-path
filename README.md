@@ -68,5 +68,5 @@ This project is designed for college students and demonstrates how graph algorit
 ---
 
 ## 🧑‍💻 Authors
-- **Trần Quốc Huy - 23110026** – Developer  
-- **Lê Vũ Khang - 23110029** – Collaborators
+- **Tran Quoc Huy - 23110026** – Developer  
+- **Le Vu Khang - 23110029** – Collaborators
