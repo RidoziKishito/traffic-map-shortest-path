@@ -55,7 +55,7 @@ This project is designed for college students and demonstrates how graph algorit
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Development Ideas
 - Add A* algorithm for pathfinding comparison.
 - Integrate real traffic data or GPS coordinates.
 - Export shortest path results as a route plan.
