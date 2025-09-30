@@ -63,10 +63,10 @@ This project is designed for college students and demonstrates how graph algorit
 ---
 
 ## 📸 Demo Screenshot (Optional)
-*(Add an image of your app here if possible)*
+<img width="938" height="471" alt="image" src="https://github.com/user-attachments/assets/551890d4-3ab7-4c0d-8219-e18d76522916" />
 
 ---
 
 ## 🧑‍💻 Authors
-- **Your Name** – Developer  
-- **Team Members (if any)** – Collaborators
+- **Trần Quốc Huy - 23110026** – Developer  
+- **Lê Vũ Khang - 23110029** – Collaborators
