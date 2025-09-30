@@ -62,7 +62,7 @@ This project is designed for college students and demonstrates how graph algorit
 
 ---
 
-## 📸 Demo Screenshot (Optional)
+## 📸 Demo Screenshot
 <img width="938" height="471" alt="image" src="https://github.com/user-attachments/assets/551890d4-3ab7-4c0d-8219-e18d76522916" />
 
 ---
