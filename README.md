@@ -55,6 +55,34 @@ This project is designed for college students and demonstrates how graph algorit
 
 ---
 
+## ⚙️ Installation & Setup
+
+To build and run this project locally:
+
+1.  **Clone** the repository:
+    ```bash
+    git clone https://github.com/RidoziKishito/traffic-map-shortest-path.git
+    cd traffic-map-shortest-path
+    ```
+
+2.  **SFML is already included**
+
+    ✅ The project already contains SFML configured and ready to use — no extra installation is required.
+
+    (You don’t need to download or link SFML manually.)
+
+4.  **Build the project**
+    Using a C++ compiler (e.g., g++):
+    ```bash
+    g++ main.cpp -o TrafficMap -lsfml-graphics -lsfml-window -lsfml-system
+    ```
+    Or open the .sln / .cbp project file in your IDE and click **Build**.
+5.  **Run the program**
+    ```bash
+    ./TrafficMap
+    ```
+
+---
 ## 🚀 Future Development Ideas
 - Add A* algorithm for pathfinding comparison.
 - Integrate real traffic data or GPS coordinates.
@@ -64,6 +92,17 @@ This project is designed for college students and demonstrates how graph algorit
 
 ## 📸 Demo Screenshot
 <img width="938" height="471" alt="image" src="https://github.com/user-attachments/assets/551890d4-3ab7-4c0d-8219-e18d76522916" />
+
+## 📄 License
+
+This project is open source and available under the **MIT License**.
+
+## 🤝 Contact & Support
+
+If you encounter any issues or have questions about this project, feel free to reach out:
+* 📧 Email: huytranquoc24@gmail.com
+* 🌐 Facebook: https://www.facebook.com/huy.tranquoc.129357/
+* 💼 LinkedIn: https://www.linkedin.com/in/tran-quoc-huy-0612-ai/
 
 ---
 
